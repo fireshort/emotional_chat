@@ -49,3 +49,9 @@ log/
 *.sqlite3
 chroma_db/
 
+# Claude Code配置（个人配置，不提交）
+.claude/
+
+# 本地备份文件（不提交）
+README.local.md
+
